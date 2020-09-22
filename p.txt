@@ -1,0 +1,4 @@
+circle 50
+moveto 100,100
+rectangle 100,100
+triangle 100,50
